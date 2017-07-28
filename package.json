@@ -1,6 +1,6 @@
 {
   "name": "deviceaccounts",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Cordova plugin to get the device accounts on Android",
   "cordova": {
     "id": "org.loicknuchel.cordova.deviceaccounts",
